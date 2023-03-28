@@ -2,7 +2,7 @@
 
 ### Objective
 
-A store named Vrinda wants to create an aual report sales report for the year 2022. So, that they can undersatnd their customers purchasing structure and make strategies to grow thier sales in year 2023.  
+A store named Vrinda wants to create an anual report sales report for the year 2022. So, that they can undersatnd their customers purchasing structure and make strategies to grow thier sales in year 2023.  
 
 ## About Data
 Gathered the data from Kaggle to performed data analysis.
